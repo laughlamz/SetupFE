@@ -1,0 +1,40 @@
+.Header {
+    height: 200px;
+    background-color: #5C04F4;
+    padding-left: 60px;
+    padding-right: 60px;
+    color: white;
+}
+
+.TopBar, .WrapSearchBar {
+    height: 100px;
+    display: flex;
+}
+
+.TopBar {
+    display: flex;
+    justify-content: space-between;
+}
+.WrapSearchBar {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+
+.Signature, .Info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+.Signature, .Info:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.Signature .Company {
+    font-size: 48px;
+}
+

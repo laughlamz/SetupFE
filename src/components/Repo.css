@@ -1,0 +1,30 @@
+.Repo {
+    width: 100%;
+    background-color: white;
+    border: 1px solid #E1E4E8;
+    border-radius: 3px;
+    padding: 5px 15px 5px 15px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    transition: all .3s;
+    font-size: 12px;
+}
+
+.Repo:hover {
+    background-color: #E1E4E8;
+}
+
+.FirstInfo {
+    display: flex;
+    justify-content: space-between;
+}
+
+.RepoName {
+    font-weight: bold;
+    color: #58a6ff;
+}
+
+.RepoTime {
+    font-size: 10px;
+    color: gray;
+}

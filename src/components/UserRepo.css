@@ -1,0 +1,9 @@
+.UserRepo {
+    width: fit-content;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #f9826c;
+}
+
+.GithubIcon {
+    margin-right: 5px;
+}

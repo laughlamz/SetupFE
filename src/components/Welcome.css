@@ -1,0 +1,18 @@
+.WelcomeTitle, .WelcomeDescription, .WelcomeIcon {
+    display: flex;
+    justify-content: center;
+}
+
+.WelcomeTitle {
+    font-size: 36px;
+    margin-top: 80px;
+}
+
+.WelcomeDescription {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.WelcomeIcon {
+    margin-top: 36px;
+}
